@@ -1,0 +1,7 @@
+---
+- name: flask app
+  hosts: all
+  become: yes
+  roles:
+    - flaskapp
+  
