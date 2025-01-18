@@ -20,5 +20,5 @@ variable "linode_token" {
     }  
 
 variable "github_token" {
-    default = "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"
+    default = "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"
     }  
